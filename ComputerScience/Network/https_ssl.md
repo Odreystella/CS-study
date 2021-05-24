@@ -1,3 +1,5 @@
+#### 작성자 : *Odreystella*
+
 # HTTP와 HTTPS 동작 과정(HTTPS와 SSL)
 
 ### 1. HTTP(Hypertext Transfer Protocol)
