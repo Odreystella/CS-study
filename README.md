@@ -11,7 +11,7 @@
   - TCP의 연결 설정 과정(3단계)과 연결 종료 과정(4단계)이 단계가 차이나는 이유?
   - 만약 Server에서 FIN플래그를 전송하기 전에 전송한 패킷이 Routing 지연이나 패킷 유실로 인해 재전송되어 FIN 패킷보다 늦게 도착하는 상황이 발생하면 어떻게 될까?
   - 초기 Sequence Number인 ISN가 난수를 생성해서 사용하는 이유는?
-- HTTP와 HTTPS
+- [HTTP와 HTTPS](https://github.com/Odreystella/CS_Study/blob/main/ComputerScience/Network/http_https.md)
 - HTTP 요청/응답 헤더
 - [HTTP와 HTTPS 동작 과정(HTTPS와 SSL)](https://github.com/Odreystella/CS_Study/blob/main/ComputerScience/Network/https_ssl.md)
 - CORS란
