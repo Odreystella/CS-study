@@ -13,7 +13,7 @@
   - 초기 Sequence Number인 ISN가 난수를 생성해서 사용하는 이유는?
 - HTTP와 HTTPS
 - HTTP 요청/응답 헤더
-- HTTP와 HTTPS 동작 과정
+- HTTP와 HTTPS 동작 과정(HTTPS와 SSL)
 - CORS란
 - GET 메서드와 POST 메서드
 - REST와 RESTful의 개념
